@@ -3,12 +3,106 @@
     <title>Mapika</title>
     <link href="https://www.ekika.info/Mapika/feed.xml" rel="self" />
     <link href="https://www.ekika.info/Mapika" />
-    <updated>2023-10-05T16:39:40+05:30</updated>
+    <updated>2023-10-05T17:12:50+05:30</updated>
     <author>
         <name>Ekika (Anand Shukla)</name>
     </author>
     <id>https://www.ekika.info/Mapika</id>
 
+    <entry>
+        <title>Installation Instructions</title>
+        <author>
+            <name>Ekika (Anand Shukla)</name>
+        </author>
+        <link href="https://www.ekika.info/Mapika/installation-instructions/"/>
+        <id>https://www.ekika.info/Mapika/installation-instructions/</id>
+
+        <updated>2023-10-05T17:12:50+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit installation guide. Follow these steps to set up&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="group w-full text-token-text-primary border-b border-black/10 gizmo:border-0 dark:border-gray-900/50 gizmo:dark:border-0 bg-gray-50 gizmo:bg-transparent dark:bg-[#444654] gizmo:dark:bg-transparent" data-testid="conversation-turn-41">
+<div class="p-4 justify-center text-base md:gap-6 md:py-6 m-auto">
+<div class="flex flex-1 gap-4 text-base mx-auto md:gap-6 gizmo:gap-3 gizmo:md:px-5 gizmo:lg:px-1 gizmo:xl:px-5 md:max-w-2xl lg:max-w-[38rem] gizmo:md:max-w-3xl gizmo:lg:max-w-[40rem] gizmo:xl:max-w-[48rem] xl:max-w-3xl }">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 gizmo:w-full md:gap-3 lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex flex-grow flex-col gap-3 max-w-full">
+<div class="min-h-[20px] flex flex-col items-start gap-3 whitespace-pre-wrap break-words overflow-x-auto">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Welcome to the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit installation guide. Follow these steps to set up "Mapika" and start your journey toward creating cutting-edge EV navigation applications:</p>
+<p><strong>Step 1: Access the UI Kit Files</strong></p>
+<ol>
+<li>
+<p><strong>Download Figma</strong>: If you haven't already, ensure you have Figma installed on your computer. Visit <a href="https://www.figma.com/" target="_new">Figma's official website</a> to download and install it.</p>
+</li>
+<li>
+<p><strong>Obtain the UI Kit</strong>: Once Figma is installed, you'll need access to the "Mapika" UI Kit files. These files are typically shared via a link provided by the UI Kit's source.</p>
+</li>
+</ol>
+<p><strong>Step 2: Open "Mapika" in Figma</strong></p>
+<ol>
+<li>
+<p><strong>Launch Figma</strong>: Open Figma on your computer.</p>
+</li>
+<li>
+<p><strong>Login or Sign Up</strong>: If you're not already logged in, log in to your Figma account. If you don't have one, you can sign up for free.</p>
+</li>
+<li>
+<p><strong>Open the UI Kit</strong>:</p>
+<ul>
+<li>Click on the shared link to the "Mapika" UI Kit that you received.</li>
+<li>In Figma, click on "File" in the top left corner.</li>
+<li>Select "Open File..."</li>
+<li>Paste the shared link in the provided field and click "Open."</li>
+</ul>
+</li>
+</ol>
+<p><strong>Step 3: Customize and Explore</strong></p>
+<ol>
+<li>
+<p><strong>Explore the UI Kit</strong>: Once the UI Kit is open in Figma, you can navigate through the various screens, components, and design elements included in "Mapika." Familiarize yourself with the available resources.</p>
+</li>
+<li>
+<p><strong>Customize Design</strong>: Customize the UI Kit to match your branding and design preferences. You can modify colors, typography, and other design elements to create a unique look and feel.</p>
+</li>
+</ol>
+<p><strong>Step 4: Collaboration and Sharing</strong></p>
+<ol>
+<li>
+<p><strong>Collaborate</strong>: "Mapika" UI Kit is designed for collaboration. You can invite team members or collaborators to work on the project with you. Use Figma's collaboration features to streamline the design process.</p>
+</li>
+<li>
+<p><strong>Export Assets</strong>: When you're ready to use the UI elements in your development project, you can export assets in various formats from Figma.</p>
+</li>
+</ol>
+<p><strong>Step 5: Stay Updated</strong></p>
+<ol>
+<li>
+<p><strong>Check for Updates</strong>: Periodically check for updates to the "Mapika" UI Kit. Design trends and features may evolve, and updates can ensure your app remains current.</p>
+</li>
+<li>
+<p><strong>Refer to Documentation</strong>: For more detailed guidance and resources, consult the "Mapika" UI Kit documentation and support materials.</p>
+</li>
+</ol>
+<p>Congratulations! You've successfully installed and accessed the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit. You're now equipped to create outstanding electric vehicle navigation applications with a user-friendly and visually appealing design. Enjoy your creative journey with "Mapika"!</p>
+</div>
+</div>
+</div>
+<div class="flex justify-between empty:hidden lg:block">
+<div class="text-gray-400 flex self-end lg:self-center justify-center gizmo:lg:justify-start mt-2 gizmo:mt-0 visible lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 gap-2 md:gap-3"><button class="flex ml-auto gizmo:ml-0 gap-2 items-center rounded-md p-1 text-xs gizmo:gap-1.5 gizmo:pl-0 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400 hover:bg-gray-100 hover:text-gray-700"><svg stroke="currentColor" fill="none" stroke-width="2" viewbox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="icon-sm" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg></button>
+<div class="flex gap-1 gizmo:gap-3"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>System Requirements</title>
         <author>
