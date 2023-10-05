@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Mapika</title>
-    <link href="https://www.ekika.info/Mapika/feed.xml" rel="self" />
-    <link href="https://www.ekika.info/Mapika" />
+    <link href="https://www.ekika.info/feed.xml" rel="self" />
+    <link href="https://www.ekika.info" />
     <updated>2023-10-05T08:25:39+05:30</updated>
     <author>
         <name>Ekika (Anand Shukla)</name>
     </author>
-    <id>https://www.ekika.info/Mapika</id>
+    <id>https://www.ekika.info</id>
 
     <entry>
         <title>Electric Vehicle (EV Near Me) Location Finder Mobile App UI Kit Template</title>
         <author>
             <name>Ekika (Anand Shukla)</name>
         </author>
-        <link href="https://www.ekika.info/Mapika/electric-vehicle-ev-near-me-location-finder-mobile-app-ui-kit-template/"/>
-        <id>https://www.ekika.info/Mapika/electric-vehicle-ev-near-me-location-finder-mobile-app-ui-kit-template/</id>
+        <link href="https://www.ekika.info/electric-vehicle-ev-near-me-location-finder-mobile-app-ui-kit-template/"/>
+        <id>https://www.ekika.info/electric-vehicle-ev-near-me-location-finder-mobile-app-ui-kit-template/</id>
             <category term="vehicle"/>
             <category term="ui kit"/>
             <category term="travel"/>
@@ -58,7 +58,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://www.ekika.info/Mapika/media/posts/1/details_01.png" height="14955" width="1843" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.ekika.info/Mapika/media/posts/1/responsive/details_01-xs.png 300w ,https://www.ekika.info/Mapika/media/posts/1/responsive/details_01-sm.png 480w ,https://www.ekika.info/Mapika/media/posts/1/responsive/details_01-md.png 768w">
+      <img loading="lazy" src="https://www.ekika.info/media/posts/1/details_01.png" height="14955" width="1843" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.ekika.info/media/posts/1/responsive/details_01-xs.png 300w ,https://www.ekika.info/media/posts/1/responsive/details_01-sm.png 480w ,https://www.ekika.info/media/posts/1/responsive/details_01-md.png 768w">
       
     </figure>
 
