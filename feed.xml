@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Mapika</title>
+    <link href="https://www.ekika.info/Mapika/feed.xml" rel="self" />
+    <link href="https://www.ekika.info/Mapika" />
+    <updated>2023-10-05T16:31:39+05:30</updated>
+    <author>
+        <name>Ekika (Anand Shukla)</name>
+    </author>
+    <id>https://www.ekika.info/Mapika</id>
+
+    <entry>
+        <title>About &quot;Mapika&quot; UI Kit</title>
+        <author>
+            <name>Ekika (Anand Shukla)</name>
+        </author>
+        <link href="https://www.ekika.info/Mapika/about-mapika-ui-kit/"/>
+        <id>https://www.ekika.info/Mapika/about-mapika-ui-kit/</id>
+
+        <updated>2023-10-05T16:31:39+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Empower Your Electric Vehicle Navigation Introducing the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit — your all-in-one solution&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Empower Your Electric Vehicle Navigation</strong></p>
+<p>Introducing the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit — your all-in-one solution for crafting the future of electric vehicle (EV) navigation. Designed with precision and care, "Mapika" is a comprehensive UI kit that empowers developers, designers, and entrepreneurs to create cutting-edge EV location finder apps with ease.</p>
+<p><strong>Unlock Seamless EV Journeys</strong></p>
+<p>"Mapika" is meticulously crafted to streamline and enhance every aspect of the EV navigation experience. From finding charging stations to managing reservations, our UI kit provides an intuitive and user-friendly interface that ensures your users can effortlessly explore the world of electric mobility.</p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>
+<p><strong>54 Screens</strong>: "Mapika" offers an extensive range of 54 meticulously designed screens, covering every aspect of an EV location finder app. From user onboarding to advanced features, you'll find it all.</p>
+</li>
+<li>
+<p><strong>Real-Time Station Information</strong>: Keep users informed with real-time updates on station availability, charging statuses, and station details, including reviews and perks.</p>
+</li>
+<li>
+<p><strong>Customization</strong>: Tailor the UI to match your branding and design preferences with ease using Figma files and guidelines provided.</p>
+</li>
+<li>
+<p><strong>User-Centric Design</strong>: "Mapika" prioritizes a seamless and enjoyable user experience, ensuring your app stands out in the competitive EV app landscape.</p>
+</li>
+<li>
+<p><strong>Secure Payments</strong>: Enable users to book and pay for charging sessions securely, providing peace of mind throughout the transaction process.</p>
+</li>
+<li>
+<p><strong>Help Center</strong>: Offer comprehensive support with a built-in Help Center, ensuring users have access to assistance when needed.</p>
+</li>
+</ul>
+<p><strong>Your Journey Begins Here</strong></p>
+<p>"Mapika" is more than just a UI kit; it's your gateway to revolutionizing electric vehicle navigation. Whether you're an established developer or an aspiring entrepreneur, our kit equips you with the tools and resources to create exceptional EV apps that redefine mobility.</p>
+<p>Join us on this exciting journey toward a greener, more sustainable future. Embrace the power of "Mapika" UI Kit and help users navigate the world of electric mobility like never before.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Purpose of this User Manual</title>
+        <author>
+            <name>Ekika (Anand Shukla)</name>
+        </author>
+        <link href="https://www.ekika.info/Mapika/purpose-of-this-user-manual/"/>
+        <id>https://www.ekika.info/Mapika/purpose-of-this-user-manual/</id>
+
+        <updated>2023-10-05T16:29:24+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit User Manual. This comprehensive guide has been meticulously&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit User Manual. This comprehensive guide has been meticulously crafted to assist you in harnessing the full potential of the "Mapika" UI Kit. Whether you are a seasoned developer or a newcomer to mobile app design, this manual serves as your trusted companion on the journey to create an exceptional electric vehicle (EV) location finder app.</p>
+<p>The primary purpose of this User Manual is to provide you with detailed insights, instructions, and best practices for effectively utilizing the "Mapika" UI Kit. Inside, you will find comprehensive documentation on every aspect of the kit, from screen descriptions and customization guidelines to advanced features and troubleshooting solutions.</p>
+<p>Our aim is to empower you with the knowledge and resources needed to craft a cutting-edge EV app that not only meets but exceeds user expectations. We invite you to delve into the rich content within these pages and embark on a seamless and innovative app development journey with "Mapika."</p>
+<p>Thank you for choosing "Mapika" UI Kit, and we look forward to being part of your success in the world of electric vehicle navigation.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Electric Vehicle (EV Near Me) Location Finder Mobile App UI Kit Template</title>
+        <author>
+            <name>Ekika (Anand Shukla)</name>
+        </author>
+        <link href="https://www.ekika.info/Mapika/electric-vehicle-ev-near-me-location-finder-mobile-app-ui-kit-template/"/>
+        <id>https://www.ekika.info/Mapika/electric-vehicle-ev-near-me-location-finder-mobile-app-ui-kit-template/</id>
+            <category term="vehicle"/>
+            <category term="ui kit"/>
+            <category term="travel"/>
+            <category term="station"/>
+            <category term="near me"/>
+            <category term="modern"/>
+            <category term="minimal"/>
+            <category term="location"/>
+            <category term="green"/>
+            <category term="figma"/>
+            <category term="ev"/>
+            <category term="energy"/>
+            <category term="electric"/>
+            <category term="design"/>
+            <category term="charging"/>
+
+        <updated>2023-10-05T08:25:39+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Introducing "ZapMap" – Your Premier Electric Vehicle (EV) Location Finder Mobile App UI Kit for Figma! Tailored for eco-conscious travellers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Introducing "ZapMap" – Your Premier Electric Vehicle (EV) Location Finder Mobile App UI Kit for Figma!<br><br>Tailored for eco-conscious travellers and EV enthusiasts, "ZapMap" seamlessly blends sleek, minimalist design with user-friendly functionality. Crafted with care, it offers a wide range of screens and intuitive navigation, ensuring your EV app development process is streamlined. From effortless onboarding to efficient vehicle management and booking, "ZapMap" empowers you to create an engaging platform. Join us in shaping the future of mobile EV travel apps. Jumpstart your journey with the "ZapMap" UI Kit today!
+  </p>
+
+  <p>
+    Creating an exhaustive list of features for your "ZapMap" Electric Vehicle Location Finder Mobile App UI Kit Template is crucial for potential buyers to understand the kit's capabilities. Here's a detailed list of features:
+  </p>
+
+  <ul>
+    <li>User-Friendly Onboarding: Smooth and efficient user registration and onboarding screens ensure a hassle-free start for new users.</li><li>Vehicle Management: Users can easily add, edit, and delete their electric vehicles within the app.</li><li>Charging Station Locator: The app provides a robust location-based search for EV charging stations "Near Me."</li><li>Real-Time Station Status: Users can view real-time information on station availability, including whether stations are in use or available for charging.</li><li>Comprehensive Home Screen: A dynamic home screen displays a map with nearby charging stations, along with convenient bottom navigation menus for quick access to key app sections.</li><li>Station Details: Users can access detailed information about charging stations, including directions, booking options, and tabs for info, charger details, reviews, estimated time to reach, facility information, operating hours, and available perks.</li><li>Bookmark Stations: Users can save their favourite charging stations for quick access and future reference.</li><li>Charging Station Lists: A list view of charging stations complements the map view for easy station browsing.</li><li>Navigation to Stations: Built-in navigation guides users to their selected charging station.</li><li>Booking Process: Seamless booking flow includes selecting vehicle type, charger, dates, and payment, with a summary and confirmation for a smooth booking experience.</li><li>Review &amp; Rating: Users can leave reviews and ratings for charging stations to share their experiences with the community.</li><li>Search and Filters: Powerful search functionality with filters enables users to find stations based on specific criteria, such as location, charger type, and amenities.</li><li>Reservation Management: A dedicated section for managing reservations and tracking upcoming bookings.</li><li>Booking History: Users can access their complete booking history for reference.</li><li>Booking Cancellation: Streamlined process for cancelling bookings when needed.</li><li>Charging Status Updates: Users can monitor the real-time charging status of their vehicles, ensuring they stay informed.</li><li>User Profiles: Comprehensive user profiles provide an overview of user details and settings.</li><li>My Vehicles: Users can manage and edit their registered vehicles within the app.</li><li>Payment Methods: Easily add and manage payment methods for secure transactions.</li><li>Settings: Users can customise app settings, including profiles, notifications, help centre access, policies, and logout.</li><li>Responsive Design: Ensures a seamless experience across various screen sizes and devices.</li><li>Atomic Design Principles: The UI kit follows atomic design principles, making it easy to customise and extend.</li><li>Modern UI Elements: Includes modern design elements to create a visually appealing and user-friendly interface.</li><li>Minimalist Aesthetics: Embraces a minimalist design approach for a clean and elegant look.</li><li>Green Energy Theme: Incorporates a green energy theme to align with the eco-conscious nature of EVs.</li><li>Figma Compatibility: Designed specifically for Figma, ensuring ease of use and customization.</li><li>Help Center: Access to a dedicated help centre section for user assistance.</li><li>Policy Information: Users can review app policies and terms.</li><li>Logout Functionality: Provides a secure logout option for users.</li>
+  </ul>
+
+  <p>
+    These features collectively make "ZapMap" a comprehensive and user-centric UI kit for developing an Electric Vehicle Location Finder Mobile App.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://www.ekika.info/Mapika/media/posts/1/details_01.png" height="14955" width="1843" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.ekika.info/Mapika/media/posts/1/responsive/details_01-xs.png 300w ,https://www.ekika.info/Mapika/media/posts/1/responsive/details_01-sm.png 480w ,https://www.ekika.info/Mapika/media/posts/1/responsive/details_01-md.png 768w">
+      
+    </figure>
+
+  <p>
+    Here's a list of all the screens included in the "ZapMap" Electric Vehicle Location Finder Mobile App UI Kit Template:
+  </p>
+
+  <ol>
+    <li>Banner</li><li>Colours Used</li><li>Typography/Font Used</li><li>Icon Page for All Icons</li><li>All Elements in One Screen for Reference and Reuse</li><li>Splash Screen</li><li>Onboarding Screen 1</li><li>Onboarding Screen 2</li><li>Onboarding Screen 3</li><li>Signup Screen</li><li>OTP (One-Time Password) Verification Screen</li><li>Add Vehicle Screen 1</li><li>Add Vehicle Screen 2</li><li>Add Vehicle Screen 3</li><li>Sign In Screen</li><li>OTP Verification for Sign In</li><li>Home Screen with Map</li><li>Station Around You with Status (In Use or Available)</li><li>Home Bottom Menu (Home, Favourites, My Booking, Profile)</li><li>Charging Station Detail Screen 1</li><li>Charging Station Detail Screen 2</li><li>Charging Station Detail Screen 3</li><li>Charging Station Detail Screen 4</li><li>Charging Station Detail Screen 5</li><li>Charging Station Detail Screen 6</li><li>Charger Lists</li><li>Direction to Charging Station</li><li>Booking Screens (Vehicle Type Selection, Charger Selection, Dates and Payment, Booking Summary, Booking Complete)</li><li>Booking Screen 1 (Vehicle Type Selection)</li><li>Booking Screen 2 (Charger Selection)</li><li>Booking Screen 3 (Dates and Payment)</li><li>Booking Screen 4 (Booking Summary)</li><li>Booking Screen 5 (Booking Complete)</li><li>Add Review Screen</li><li>Submit Review Screen</li><li>Search and Filters Screen</li><li>Booked and Reservation Screen</li><li>My Booking and History Screen</li><li>Cancel Booking Screen 1</li><li>Cancel Booking Screen 2</li><li>Cancel Booking Screen 3</li><li>Charging Status Screen 1</li><li>Charging Status Screen 2</li><li>Profile Screen</li><li>My Vehicle Screen</li><li>Delete Vehicle Confirmation Screen</li><li>Add and Manage Payment Method Screen 1</li><li>Add and Manage Payment Method Screen 2</li><li>Add and Manage Payment Method Screen 3</li><li>Settings Screen</li><li>Profile Settings</li><li>Help Center</li><li>Policy Information</li><li>Logout Confirmation<br></li>
+  </ol>
+
+  <p>
+    These screens collectively make up the "ZapMap" UI Kit, providing a comprehensive and user-friendly framework for developing an Electric Vehicle Location Finder Mobile App.
+  </p>
+
+  <p>
+    Layout:<br>We used iPhone 13 Mini Layout so you can make the app best perfect fit for any mobile screen. Iphone 13 mini has the smallest smartphone screen as of recent trends so we designed all the screens based on it.<br>
+  </p>
+
+  <p>
+    Screen Size: 375 X 812<br>(Note: In some screens we make height longer to showcase scroll behaviour and elements after scroll.) <br><br>Sources &amp; Credits:<br>
+  </p>
+
+  <p>
+    Fonts used:<br>- Nunito (URL: https://fonts.google.com/specimen/Nunito)<br>- Secular One (URL: https://fonts.google.com/specimen/Secular+One)<br><br>Images (Assets) are used: (All are free and open to use licence images)
+  </p>
+
+  <ul>
+    <li>https://www.freepik.com/free-photo/electric-cars-parking-lot-charging_14371077.htm#query=ev%20charger%20station&amp;position=2&amp;from_view=search&amp;track=ais</li><li>https://www.freepik.com/free-vector/electric-car_3478168.htm#page=2&amp;query=ev%20charger%20station&amp;position=8&amp;from_view=search&amp;track=ais</li><li>https://www.freepik.com/free-vector/hand-drawn-no-data-illustration_49639852.htm#&amp;position=48&amp;from_view=search&amp;track=ais</li><li>https://www.freepik.com/free-vector/front-car-concept-illustration_20863876.htm#&amp;position=0&amp;from_view=search&amp;track=ais</li><li>https://www.freepik.com/free-photo/3d-electric-car-charging-station_14371080.htm#&amp;position=0&amp;from_view=search&amp;track=ais</li>
+  </ul>
+
+  <p>
+    Icons are picked from two free open icon websites as following.
+  </p>
+
+  <ul>
+    <li>- https://www.svgrepo.com/</li><li>- https://www.iconfinder.com/</li>
+  </ul>
+
+  <p>
+    v1.0 [October 2023]<br>- Init Release
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
