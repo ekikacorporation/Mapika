@@ -3,12 +3,78 @@
     <title>Mapika</title>
     <link href="https://www.ekika.info/Mapika/feed.xml" rel="self" />
     <link href="https://www.ekika.info/Mapika" />
-    <updated>2023-10-05T16:31:39+05:30</updated>
+    <updated>2023-10-05T16:39:40+05:30</updated>
     <author>
         <name>Ekika (Anand Shukla)</name>
     </author>
     <id>https://www.ekika.info/Mapika</id>
 
+    <entry>
+        <title>System Requirements</title>
+        <author>
+            <name>Ekika (Anand Shukla)</name>
+        </author>
+        <link href="https://www.ekika.info/Mapika/system-requirements/"/>
+        <id>https://www.ekika.info/Mapika/system-requirements/</id>
+
+        <updated>2023-10-05T16:39:40+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Before you embark on your journey with the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit, it's essential to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Before you embark on your journey with the "Mapika" Electric Vehicle Location Finder Mobile App UI Kit, it's essential to ensure that your system meets the necessary requirements for a seamless experience. Below, you'll find the key system requirements to make the most of this powerful UI kit:</p>
+<ol>
+<li>
+<p><strong>Operating System</strong>:</p>
+<ul>
+<li>Windows 10 or later</li>
+<li>macOS 10.15 Catalina or later</li>
+</ul>
+</li>
+<li>
+<p><strong>Design Tool</strong>:</p>
+<ul>
+<li>To fully utilize the "Mapika" UI Kit, you'll need access to Figma, a cloud-based design and prototyping tool. Ensure you have an active Figma account or sign up for one at <a href="https://www.figma.com/" target="_new">Figma's official website</a>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Internet Connection</strong>:</p>
+<ul>
+<li>A stable internet connection is necessary for accessing and collaborating on Figma files, as well as for downloading updates and additional resources.</li>
+</ul>
+</li>
+<li>
+<p><strong>Graphics Hardware</strong>:</p>
+<ul>
+<li>While not particularly demanding, a modern computer with a standard graphics card will provide the best performance when working with design files.</li>
+</ul>
+</li>
+<li>
+<p><strong>Storage Space</strong>:</p>
+<ul>
+<li>Ensure you have adequate storage space available on your computer for downloading and managing the "Mapika" UI Kit files and related assets.</li>
+</ul>
+</li>
+<li>
+<p><strong>Web Browser</strong>:</p>
+<ul>
+<li>You may need to use a compatible web browser to access online resources or support materials related to the UI kit.</li>
+</ul>
+</li>
+<li>
+<p><strong>Basic Computer Skills</strong>:</p>
+<ul>
+<li>Familiarity with basic computer operations, file management, and design software navigation will be beneficial when working with "Mapika."</li>
+</ul>
+</li>
+</ol>
+<p>By ensuring your system meets these requirements, you'll be well-prepared to dive into the world of "Mapika" and create exceptional electric vehicle location finder apps. Get ready to empower users on their electric vehicle journeys and make sustainable mobility more accessible than ever before.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About &quot;Mapika&quot; UI Kit</title>
         <author>
